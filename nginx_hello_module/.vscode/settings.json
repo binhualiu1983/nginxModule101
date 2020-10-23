@@ -1,0 +1,23 @@
+{
+    "C_Cpp.default.includePath": [
+        "/usr/local/nginx-1.19.3/src/core",
+        "/usr/local/nginx-1.19.3/src/event",
+        "/usr/local/nginx-1.19.3/src/http",
+        "/usr/local/nginx-1.19.3/src/mail",
+        "/usr/local/nginx-1.19.3/src/misc",
+        "/usr/local/nginx-1.19.3/src/os",
+        "/usr/local/nginx-1.19.3/src/stream"
+    ],
+    "C_Cpp.default.browse.path": [
+        "/usr/local/nginx-1.19.3/src/core",
+        "/usr/local/nginx-1.19.3/src/event",
+        "/usr/local/nginx-1.19.3/src/http",
+        "/usr/local/nginx-1.19.3/src/mail",
+        "/usr/local/nginx-1.19.3/src/misc",
+        "/usr/local/nginx-1.19.3/src/os",
+        "/usr/local/nginx-1.19.3/src/stream"
+    ],
+    "files.associations": {
+        "*.cpp_bk1": "cpp"
+    }
+}
